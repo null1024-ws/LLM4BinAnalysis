@@ -1,5 +1,5 @@
 # LLM For Binary Analysis
-### Our motivation
+### Our Motivation
 
 
 ### Preliminary Study
